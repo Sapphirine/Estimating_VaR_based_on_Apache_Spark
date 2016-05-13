@@ -1,4 +1,3 @@
-tl2699 kl2855
 # Estimating_VaR_based_on_Apache_Spark
 This is a simple Spark program to calculate Value at Risk using Monte Carlo simulation.
 
